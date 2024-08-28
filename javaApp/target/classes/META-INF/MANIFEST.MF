@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 11
+Class-Path: json-20210307.jar commons-codec-1.15.jar
+Created-By: Maven Integration for Eclipse
+
